@@ -1,4 +1,4 @@
-#Catching Multiple exceptions through Multiple Catches
+//Catching Multiple exceptions through Multiple Catches
 
 package exceptionhandlingtest;
 
